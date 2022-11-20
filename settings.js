@@ -54,15 +54,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201121968769'] //ur owner number
-global.ownername = "𝐾𝐻𝐻𝐹𝑈" //ur owner name
-global.ytname = "YT: khufu" //ur yt chanel name
+global.vcardowner = ['966566492716'] //ur owner number
+global.ownername = "AKESKATT" //ur owner name
+global.ytname = "YT: akeskatt" //ur yt chanel name
 global.socialm = "o" //ur github or insta name
 global.location = "Egypt" //ur location
 
 //bot bomdy 
-global.owner = ['201121968769']
-global.ownertag = '201121968769' //ur tag number
+global.owner = ['966566492716']
+global.ownertag = '966566492716' //ur tag number
 
 global.botname = 'ᴹᴿ᭄ Bot Whatsapp ×፝֟͜×' //ur bot name
 global.linkz = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //your theme url which will be displayed on whatsapp
@@ -70,8 +70,8 @@ global.websitex = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //ur we
 global.botscript = 'https://youtube.com/channel/UCB3Z3phhszGj8FBdaJmIdJQ' //script link
 global.reactmoji = "💗" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "01121968769" //ur sticker watermark packname
-global.author = "خوفو ص المزعجين ☺️ " //ur sticker watermark author
+global.packname = "966566492716" //ur sticker watermark packname
+global.author = "رد آلي ☺️ " //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -80,7 +80,7 @@ global.err4r = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur error pi
 global.thumb = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['201121968769'] //ur premium numbers
+global.premium = ['966566492716'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -106,19 +106,19 @@ global.antitags = false
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'ضن✓',
-    admin: 'لازم تكون ادمن الاول ',
-    botAdmin: 'لازم اكون ادمن  الاول ',
-    owner: 'ميزه دي ل مالك البوت فقط ',
-    group: 'فقط في رومات ',
+    success: 'تم✓',
+    admin: 'لازم تكون مشرف  ',
+    botAdmin: 'لازم تكون مشرف   ',
+    owner: 'ميزه لمالك البوت فقط ',
+    group: 'فقط في قروبات ',
     private: 'برايفت بس!',
-    bot: 'ميزه دي ل بوت فقط',
-    wait: 'استني ....',
-    linkm: 'فين لينك؟',
+    bot: 'ميزه  للبوت فقط',
+    wait: 'نتظر ....',
+    linkm: 'ويز اللينك؟',
     error: 'ايرور!!!!',
-    endLimit: 'تعالا بكره !',
-    ban: 'لا استطيع ارسال اي شئ لان مالك قام بحظر هاذا روم !',
-    nsfw: 'ميزه مقفوله خلي الادمن يشغلها!',
+    endLimit: 'تعال بكره !',
+    ban: 'لا استطيع ارسال اي شئ لان امالك قام بحظر هاذا القروب !',
+    nsfw: 'ميزه غلقة خلي الادمن فعلها!',
     banChat: ''
 }
     global.limitawal = {
