@@ -54,14 +54,14 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['966566492716'] //ur owner number
+global.vcardowner = ['00966566492716'] //ur owner number
 global.ownername = "AKESKATT" //ur owner name
 global.ytname = "YT: akeskatt" //ur yt chanel name
 global.socialm = "o" //ur github or insta name
 global.location = "Egypt" //ur location
 
 //bot bomdy 
-global.owner = ['966566492716']
+global.owner = ['00966566492716']
 global.ownertag = '966566492716' //ur tag number
 
 global.botname = 'ᴹᴿ᭄ Bot Whatsapp ×፝֟͜×' //ur bot name
@@ -70,7 +70,7 @@ global.websitex = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //ur we
 global.botscript = 'https://youtube.com/channel/UCB3Z3phhszGj8FBdaJmIdJQ' //script link
 global.reactmoji = "💗" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "966566492716" //ur sticker watermark packname
+global.packname = "00966566492716" //ur sticker watermark packname
 global.author = "رد آلي ☺️ " //ur sticker watermark author
 
 //Bot theme media
@@ -80,7 +80,7 @@ global.err4r = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur error pi
 global.thumb = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['966566492716'] //ur premium numbers
+global.premium = ['00966566492716'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
